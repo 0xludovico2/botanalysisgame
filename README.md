@@ -1,6 +1,6 @@
-# 🐍 Snake Game with Rewards
+# 🐍 $Botanalysis Game
 
-A modern implementation of the classic Snake game with blockchain rewards integration. Play, earn points, and claim $BOT tokens on the Base blockchain.
+A modern implementation of the classic Snake game with blockchain rewards integration. Play, earn points, and claim $BOT tokens on the Base Mainnet blockchain.
 
 ![Snake Game Screenshot](public/images/robot-logo.webp)
 
