@@ -11,7 +11,6 @@ A modern implementation of the classic Snake game with blockchain rewards integr
 - **Blockchain Rewards**: Earn $BOT tokens based on your gameplay performance
 - **Practice Mode**: Continue playing even after using all your daily lives
 - **Mobile Support**: Responsive design with touch controls for mobile devices
-- **VIP System**: Special privileges for VIP users (more daily lives)
 - **Transaction Notifications**: Real-time notifications with Basescan links
 
 ## 🛠️ Technologies
